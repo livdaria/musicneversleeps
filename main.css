@@ -68,5 +68,6 @@
 }
 
 .subscribe h4 {
-    font-size: 40px;
+    font-size: 50px;
+    font-type: bold;
 }
