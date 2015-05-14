@@ -66,3 +66,7 @@
 .subscribe {
     text-align: center;
 }
+
+.subscribe h4 {
+    font-size: 40px;
+}
